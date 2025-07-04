@@ -1,0 +1,71 @@
+('C:\\Users\\LEGION\\Documents\\CS '
+ 'survey\\calendar\\build\\calendar_todolist\\calendar_todolist.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\calendar\\build\\calendar_todolist\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\calendar\\build\\calendar_todolist\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\calendar\\build\\calendar_todolist\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\calendar\\build\\calendar_todolist\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\calendar\\build\\calendar_todolist\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\calendar\\build\\calendar_todolist\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Users\\LEGION\\Documents\\CS '
+   'survey\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\LEGION\\Documents\\CS '
+   'survey\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('calendar_todolist',
+   'C:\\Users\\LEGION\\Documents\\CS survey\\calendar\\calendar_todolist.py',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
