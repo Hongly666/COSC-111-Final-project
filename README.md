@@ -48,8 +48,13 @@ This section is specifically for running the compiled `.exe` file without needin
 
 ### Installation
 
-1. Download the provided `.zip` file containing the application.
-2. Unzip the file to a location on your computer (e.g., your Desktop or Documents folder).
+1.  **Download the provided `.zip` file** containing the application from the GitHub repository:
+    * First, click on the folder named `calendar todolist application file`.
+    * Then, click on the `calendar_todolist.zip` file.
+    * Finally, click on the "View raw" button (it might be on the right side of the page) to start the download.
+2.  **Unzip the file** to a location on your computer (e.g., your Desktop or Documents folder).
+    * **On Windows:** Right-click the downloaded `.zip` file, select "Extract All...", and follow the prompts.
+    * **On macOS:** Simply double-click the downloaded `.zip` file, and it will automatically unzip.
 
 ### Usage
 
